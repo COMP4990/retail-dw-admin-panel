@@ -36,7 +36,7 @@ function LineChart() {
       {
         type: 'text',
         position: ['min', 'median'],
-        content: 'Some sort of chart',
+        content: 'Median Revenue',
         offsetY: -4,
         style: {
           textBaseline: 'bottom',
