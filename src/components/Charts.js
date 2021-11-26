@@ -28,6 +28,7 @@ function Charts(props) {
       <Col span={24}>
         <Card style={{borderRadius: "15px", boxShadow: "5px 8px 24px 5px rgba(208, 216, 243, 0.6)"}}>
           <LineChart/>
+          <Title level={4}>Revenue in past 30 days</Title>
         </Card>
       </Col>
     </Row>
